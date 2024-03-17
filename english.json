@@ -1,0 +1,1134 @@
+[
+    {
+        "ch": "我想要訂位。",
+        "en": "I'd like to make a reservation."
+    },
+    {
+        "ch": "今天晚上**還有位子**嗎？",
+        "en": "Do you have any tables available this evening?"
+    },
+    {
+        "ch": "我可以預訂十月五號星期一晚上六點半的兩人桌嗎？",
+        "en": "Can I reserve a table for dinner for two at six thirty on Monday, Ocotber 5?"
+    },
+    {
+        "ch": "你們有兒童椅嗎？",
+        "en": "Do you have high chairs?"
+    },
+    {
+        "ch": "不好意思，我們可以點餐了。",
+        "en": "Execuse me, we're ready to order."
+    },
+    {
+        "ch": "今天的特餐是什麼呢？你推薦什麼呢？",
+        "en": "What is the dish of the day? What do you recommend?"
+    },
+    {
+        "ch": "可以幫我打包這道菜嗎？",
+        "en": "Could you wrap this up for me?"
+    },
+    {
+        "ch": "請問可以給我帳單嗎？",
+        "en": "May I have the check, please?"
+    },
+    {
+        "ch": "我只是看看。",
+        "en": "I'm just looking around."
+    },
+    {
+        "ch": "這是什麼材質呢？",
+        "en": "What is it made from?"
+    },
+    {
+        "ch": "我可以試穿看看嗎？試衣間在哪裡呢？",
+        "en": "Can I try it on? Where is the fitting room?"
+    },
+    {
+        "ch": "請問你們有大一點／小一點的尺寸嗎?",
+        "en": "Do you have a larger / smaller size?"
+    },
+    {
+        "ch": "請問你們這個有**別的顏色**嗎？",
+        "en": "Do you have this in another color?"
+    },
+    {
+        "ch": "你們有提供折扣嗎？",
+        "en": "Do you offer discount?"
+    },
+    {
+        "ch": "可以**算我便宜**一些嗎？",
+        "en": "Can you cut me deal?"
+    },
+    {
+        "ch": "我再**考慮**一下。",
+        "en": "I have to think it over."
+    },
+    {
+        "ch": "我想要退貨。",
+        "en": "I would like to return some items."
+    },
+    {
+        "ch": "請問我可以**退款**嗎？",
+        "en": "Can I have a refund, please?"
+    },
+    {
+        "ch": "請問你們還有**空房**嗎？",
+        "en": "Do you have anything available? / Is there any vacancy?"
+    },
+    {
+        "ch": "我有**以Winnie的名字**預訂房間。",
+        "en": "I have a reservation under the name Winnie."
+    },
+    {
+        "ch": "請問你們能**保管**行李到我們能入住的時候嗎？",
+        "en": "Could you keep our luggage until we can check-in?"
+    },
+    {
+        "ch": "請問我的房間**有包含**早餐嗎？明天早上是幾點開始供餐呢？",
+        "en": "Does my room include breakfast? When do you start serving tomorrow morinng?"
+    },
+    {
+        "ch": "請問可以幫我與我的家人安排**相鄰的房間**嗎？",
+        "en": "Could I book adjoining rooms for my family?"
+    },
+    {
+        "ch": "請問你們可以**代為保管貴重物品**嗎？",
+        "en": "Could you keep my valuables?"
+    },
+    {
+        "ch": "請問有可能再**多住一晚**嗎？／我可以**延長住宿**嗎？",
+        "en": "Would it be possible to stay an extra night? Can I extend my reservation?"
+    },
+    {
+        "ch": "請問可以多**給我**兩條毛巾嗎？",
+        "en": "Could you bring me two more towels, please?"
+    },
+    {
+        "ch": "請問我可以**晚些**在1點時退房嗎？",
+        "en": "Can we check out a little later, at 1 o'clock?"
+    },
+    {
+        "ch": "可以給我一張有旅館住址的名片嗎？",
+        "en": "Can I have a card with the hotel's address?"
+    },
+    {
+        "ch": "請問可以在明天早上8點**叫醒**我嗎？",
+        "en": "Could I have a wake-up/morning call at 8 o'clock please?"
+    },
+    {
+        "ch": "我想確認我的航班。",
+        "en": "I would like to confirm my flight."
+    },
+    {
+        "ch": "我想選靠**走道**／**靠窗**的位子。",
+        "en": "I would like to have an asile seat / a window seat."
+    },
+    {
+        "ch": "這班飛機幾點登機呢？要到哪一個登機門登機？",
+        "en": "When does the flight begin boarding? What gate does the flight board at?"
+    },
+    {
+        "ch": "請問這個**可以**帶上飛機嗎？我可以把這個袋子當**隨身行李**嗎？",
+        "en": "Is this allowed on the plane? May I take this bag on as carry-on baggage?"
+    },
+    {
+        "ch": "我要前往／轉機洛杉磯。",
+        "en": "I am going / transfer to LA."
+    },
+    {
+        "ch": "請問**多久來一班**公車／火車？",
+        "en": "How often does the bus/train run?"
+    },
+    {
+        "ch": "請問這班公車／火車**到哪裡**呢？",
+        "en": "Where is this bus/train heading to?"
+    },
+    {
+        "ch": "請問這班公車／火車是每站都**停靠**的嗎？",
+        "en": "Does this bus/train stop at every station?"
+    },
+    {
+        "ch": "請問你是照**跳錶**收費的嗎?",
+        "en": "Do you use the meter?"
+    },
+    {
+        "ch": "請走 Taipei路／大道／街，並在7-11前面**讓我下車**。",
+        "en": "Stay on Taipei Road / Avenue / Street, drop me off at the 7-11, please."
+    },
+    {
+        "ch": "你**今晚想看**電影嗎？",
+        "en": "Do you want to see a movie tonight?"
+    },
+    {
+        "ch": "我要兩張晚上九點「魔髮奇緣」的票。",
+        "en": "I want two tickets to XXX at 9pm."
+    },
+    {
+        "ch": "我可以選擇**前/中/後/排**的座位嗎？",
+        "en": "Can I have front/center/back seats?"
+    },
+    {
+        "ch": "我們今晚要去唱卡拉OK。",
+        "en": "We are going to kalaoke tonight."
+    },
+    {
+        "ch": "你們介意我先插播一首歌嗎？",
+        "en": "Would you mind if I'll put the song at the front of the list?"
+    },
+    {
+        "ch": "一起**合唱**吧。",
+        "en": "Let's sing a duet."
+    },
+    {
+        "ch": "這個**動作**我要連續做幾次？",
+        "en": "How many reps should I do?"
+    },
+    {
+        "ch": "請問你能幫我**支撐**嗎？",
+        "en": "Can you spot me?"
+    },
+    {
+        "ch": "你能推薦這個區域的**短程健行**嗎？",
+        "en": "Can you recommend a short day hike in this area?"
+    },
+    {
+        "ch": "有誰知道如何**搭帳篷**呢？",
+        "en": "Who knows how to set up a tent?"
+    },
+    {
+        "ch": "我受傷了，請問**急救箱**在哪裡呢？",
+        "en": "I am injured, where is the first aid kit?"
+    },
+    {
+        "ch": "外面的雨下得可真是大啊！",
+        "en": "The rain is really pouring outside."
+    },
+    {
+        "ch": "我覺得這巴士已經誤點了20分了，也許它不會來了，對吧？",
+        "en": "I think the bus is already late for 20 minutes. Maybe it's not coming, huh?"
+    },
+    {
+        "ch": "這件裙子跟你真的**很搭**！你穿藍色很漂亮。",
+        "en": "The dress suits you really well! You look good in blue."
+    },
+    {
+        "ch": "那個漢堡聞起來真**誘人**！我可以問你是從哪裡買的嗎？",
+        "en": "That burger smells tempting! May I ask where you got it?"
+    },
+    {
+        "ch": "那箱子看起來很重，你需要幫忙嗎？",
+        "en": "The box looks pretty heavy. Do you need a hand?"
+    },
+    {
+        "ch": "你看起來很困惑，我可以幫上什麼忙嗎？",
+        "en": "You look confused. Can I help you with anything?"
+    },
+    {
+        "ch": "你也在這裡等很久了嗎？我困在這兒兩個多小時了。",
+        "en": "Have you been waiting long, too? I've been stuck here for 2 hours."
+    },
+    {
+        "ch": "你很常來這兒嗎？我覺得他們的漢堡是全鎮最棒的了！",
+        "en": "Do you visit here often? I think they serve the best burger in town."
+    },
+    {
+        "ch": "你覺得怎麼樣？我們要不要一起改共乘計程車呢？",
+        "en": "What do you think? Shall we share the taxi?"
+    },
+    {
+        "ch": "你喜歡那部電影嗎？",
+        "en": "Do you like the movie?"
+    },
+    {
+        "ch": "關於那部電影你有什麼想法？",
+        "en": "What do you think about the moive?"
+    },
+    {
+        "ch": "你常來這兒嗎？",
+        "en": "Do you come here often?"
+    },
+    {
+        "ch": "你多常來這兒呢？",
+        "en": "How often do you come here?"
+    },
+    {
+        "ch": "其實我正在**上班的途中**所以不能**久聊**，我們**之後再聚聚**吧！",
+        "en": "Actually, I'm on my way to work, so I can't talk any longer. Let's catch up sometime!"
+    },
+    {
+        "ch": "總之，我就不打擾你用餐了，真的很開心見到你。",
+        "en": "Anyway, I'll let you get back to your meal. It was great seeing you."
+    },
+    {
+        "ch": "噢，我不應該打擾你**太久**，你一定很忙吧！我就讓你**回去忙手邊的工作**了。",
+        "en": "Well, I won't keep you any longer. You must be busy. I'll let you get back to work."
+    },
+    {
+        "ch": "但願我可以，但這真的不是我**在行的**。",
+        "en": "I wish I could, but this is really not my type of thing."
+    },
+    {
+        "ch": "我很想要，但是我還有很多事要忙。",
+        "en": "I'd love to, but I've got lots of things to do."
+    },
+    {
+        "ch": "恐怕現在沒辦法。",
+        "en": "I'm afraid this is not a good time."
+    },
+    {
+        "ch": "謝謝你的邀請，但是我**現在行程很滿**。",
+        "en": "Thank you for asking, but my schedule is full at the moment."
+    },
+    {
+        "ch": "Jerry應該可以跟你去。",
+        "en": "Jerry might be able to go with you."
+    },
+    {
+        "ch": "你可以去問問Judy，她會有興趣的。",
+        "en": "You might wanna ask Judy. She would be interested."
+    },
+    {
+        "ch": "B: 我不餓，謝謝。",
+        "en": "B: I'm good. Thanks!"
+    },
+    {
+        "ch": "B: 沒關係，我可以點餐了。",
+        "en": "B: I'm ok. I can order now."
+    },
+    {
+        "ch": "B: 沒關係，總會有下次的。",
+        "en": "B: Don't worry about it. There's always next time."
+    },
+    {
+        "ch": "當電話鈴響的時候，我正在睡覺。",
+        "en": "The phone was ringing while I was sleeping."
+    },
+    {
+        "ch": "為了要預防流感，我們都要更加頻繁的清洗雙手。",
+        "en": "In order to prevent the flu, we all need to wash our hands more frequently."
+    },
+    {
+        "ch": "我相信你，因為你是我最好的朋友。",
+        "en": "I trust you because you're my best friend."
+    },
+    {
+        "ch": "他知道我現在單身。",
+        "en": "He knew I'm single."
+    },
+    {
+        "ch": "鑒於最近發生的幾宗事件，我們提醒顧客要特別注意看好自己的個人物品。",
+        "en": "In the light of recent incidents, we are asking our customers to take particular care of their personal belongings."
+    },
+    {
+        "ch": "「我可以借這本書嗎？」「當然可以。」",
+        "en": "\"May I borrow this book?\" \"By all means.\""
+    },
+    {
+        "ch": "我天真地以為我的新銀行帳戶是免費的，結果每個月我都被扣了10 英鎊的手續費。",
+        "en": "I was naive to believe that my new bank account was going to be free. I was charged 10 pounds a month!"
+    },
+    {
+        "ch": "我妹妹幼稚地以為她第一個男朋友會永遠和她在一起。結果四個月後就分手了。",
+        "en": "My sister was naive to think that her first boyfriend would stay with her forever. The relationship lasted 4 months."
+    },
+    {
+        "ch": "你太天真了，他們才不會真的會接受你的建議。",
+        "en": "You are so naive - they'll never take your suggestions seriously."
+    },
+    {
+        "ch": "他只要守規矩就歡迎他來。",
+        "en": "He's welcome to come along, provided that he behaves himself."
+    },
+    {
+        "ch": "假如不下雨我就去。",
+        "en": "I shall go provided that it doesn't rain."
+    },
+    {
+        "ch": "他答應接受訪問，條件是訪問稿刊登前須經他同意。",
+        "en": "He agreed to the interview, with the caveat that he could approve the final article."
+    },
+    {
+        "ch": "她關於那個司機已經喝醉的證詞無可**辯駁**。",
+        "en": "Nothing could refute her testimony that the driver was drunk."
+    },
+    {
+        "ch": "他立誓決不泄露秘密。",
+        "en": "He swore never to divulge the secret."
+    },
+    {
+        "ch": "當地政府每年都為藝術項目**撥款**5000萬到一億英鎊。",
+        "en": "The local authorities annually disburse between £50 million and £100 million on arts projects."
+    },
+    {
+        "ch": "我認為鬥牛應該廢止。",
+        "en": "I think bullfighting should be abolished."
+    },
+    {
+        "ch": "牆上有個牌子，上寫「請勿吸煙」。",
+        "en": "The sign on the wall said \"Please refrain from smoking.\""
+    },
+    {
+        "ch": "午餐之後，我們連續開了三場會議。",
+        "en": "After lunch, we had three meetings in a row."
+    },
+    {
+        "ch": "該國的出生率已連續下降二十年。",
+        "en": "The country's birth rate has been falling 20 years in a row."
+    },
+    {
+        "ch": "在試用期評估中，Kevin Edwards被稱讚工作做得跟部門裡有經驗的員工一樣有效率。",
+        "en": "In his probationary evaluation, Kevin Edwards was praised for working as effectively as the experienced employees in the department."
+    },
+    {
+        "ch": "Pete一上床，就有人敲門。",
+        "en": "No sooner had Pete gone to bed than someone knocked on the door."
+    },
+    {
+        "ch": "除了兼職員工，所有員工都必須參加會議。",
+        "en": "Other than part-time staff, all employees must attend the meeting."
+    },
+    {
+        "ch": "臺北101顯然是這座城市最高的建築。",
+        "en": "Taipei 101 is by far the tallest building in the city."
+    },
+    {
+        "ch": "我們會及時給予回覆。",
+        "en": "We will get back to you in a timely manner."
+    },
+    {
+        "ch": "好的，讓我先把這個做完再回覆你。",
+        "en": "Sure, let me finish this and get back to you."
+    },
+    {
+        "ch": "這份雇用合約中明訂試用期是6個月。",
+        "en": "The employment contract stipulates that the probation period is six months."
+    },
+    {
+        "ch": "豪華海景房可以輕鬆讓最多七個人入住。",
+        "en": "The luxurious beachfront rooms can easily accomondate up to seven occupants."
+    },
+    {
+        "ch": "醫生給她注射以減輕疼痛。",
+        "en": "The doctor gave her an injection to alleviate the pain."
+    },
+    {
+        "ch": "那城堡要用巨資進行全面整修。",
+        "en": "The castle will undergo extensive and costly renovations."
+    },
+    {
+        "ch": "探險者得忍受艱苦。",
+        "en": "Explorers have to withstand hardships."
+    },
+    {
+        "ch": "委員會將在下星期四上午 11:30 開會。",
+        "en": "The committee will convene at 11.30 next Thursday."
+    },
+    {
+        "ch": "他放棄了對遺產的要求權。",
+        "en": "He waived his claim to the estate."
+    },
+    {
+        "ch": "他的演說不能保持住聽眾的興趣",
+        "en": "His speech could not retain the interest of his audience."
+    },
+    {
+        "ch": "第二學期自三月開始。",
+        "en": "The second term commences in March."
+    },
+    {
+        "ch": "他的職業是木匠。",
+        "en": "He is a carpenter by trade."
+    },
+    {
+        "ch": "他們現在很有錢，但仍很節儉。",
+        "en": "They have plenty of money now, but they still tend to be thrifty."
+    },
+    {
+        "ch": "我真的找不出理由再多休一天假了。",
+        "en": "I can't really justify taking another day off work."
+    },
+    {
+        "ch": "很難判斷他們會作何反應。",
+        "en": "It's difficult to gauge how they'll react."
+    },
+    {
+        "ch": "我們懇求您對於此一事件能給予協助和合作。",
+        "en": "We solicit your close cooperation with us in this matter."
+    },
+    {
+        "ch": "請把這些標籤系在您的手提行李上。",
+        "en": "Please affix some lables on your handle-luggage."
+    },
+    {
+        "ch": "最近幾周那兩個國家間的關係嚴重惡化了。",
+        "en": "Relation between the two countries have deteriorated sharply in recent week."
+    },
+    {
+        "ch": "自然選擇的作用似乎是十分確定的。",
+        "en": "The action of selection seems to be fully deterministic."
+    },
+    {
+        "ch": "我們要儘快做出決定。",
+        "en": "It is imperative that we make a quick decision."
+    },
+    {
+        "ch": "不同的工作者有不同的技能。",
+        "en": "Different workers possess different skills."
+    },
+    {
+        "ch": "近來裁員很多，所以士氣很低。",
+        "en": "There have been a lot of job losses recently so morale is fairly low."
+    },
+    {
+        "ch": "幾位外國要人出席了那個儀式。",
+        "en": "Several foreign dignitaries attended the ceremony."
+    },
+    {
+        "ch": "莎莉手術後一直恢復良好，但昨天她的病情再度復發。",
+        "en": "Sally had been recovering well from her operation, but yesterday she experienced/suffered a setback."
+    },
+    {
+        "ch": "我讓你來決定這件事。",
+        "en": "I leave the decision to your discretion."
+    },
+    {
+        "ch": "旅行社工作人員將負責安排交通和行程計劃。",
+        "en": "The tour operator will arrange transport and plan your itinerary."
+    },
+    {
+        "ch": "該團體和數個國外組織有聯繫。",
+        "en": "The group has affiliations with several organizations abroad."
+    },
+    {
+        "ch": "政府最近徹底改革了公共醫療保健服務。",
+        "en": "The government has recently overhauled the healthcare system."
+    },
+    {
+        "ch": "經過一段時期的波動后，預料倫敦市場的黃金價格將穩定下來。",
+        "en": "Gold prices on the London market are expected to flatten out after a period of fluctuation."
+    },
+    {
+        "ch": "這些日期只是暫定的。",
+        "en": "These dates are only provisional."
+    },
+    {
+        "ch": "他的醫生建議他不要做任何劇烈運動。",
+        "en": "His doctor advised him not to do any strenuous exercise."
+    },
+    {
+        "ch": "電燈發明以後煤氣燈就被**淘汰**了。",
+        "en": "Gas lamps became obsolete when electric lighting was invented."
+    },
+    {
+        "ch": "他的策略堪稱**典範**，尤其是考慮到當時的情形。",
+        "en": "His tact was exemplary, especially considering the circumstances."
+    },
+    {
+        "ch": "盡量不要為一些次要的枝節問題分心。",
+        "en": "Try not to be distracted by incidental details."
+    },
+    {
+        "ch": "此次失利令她渴求的冠軍夢想徹底破滅了。",
+        "en": "The defeat ends any lingering hopes she might have had of winning the championship."
+    },
+    {
+        "ch": "環境在本世紀遭到了空前的破壞。",
+        "en": "This century has witnessed environmental destruction on an unprecedented scale."
+    },
+    {
+        "ch": "我暫定七月去西雅圖旅行。",
+        "en": "I have tentative plans to take a trip to Seattle in July."
+    },
+    {
+        "ch": "過去兩年裡面，這間公司的發展業績不俗。",
+        "en": "The company has shown exceptional growth over the past two years."
+    },
+    {
+        "ch": "值得注意的是，1/3的學生不繳納任何學費。",
+        "en": "It is noteworthy that one third of students do not pay any tuition fees."
+    },
+    {
+        "ch": "這是我連續第五個週末加班。",
+        "en": "This is the fifth consecutive weekend that I've spent working."
+    },
+    {
+        "ch": "演講結束後你們會有足夠的時間提問。",
+        "en": "You'll have ample opportunity to ask questions after the talk."
+    },
+    {
+        "ch": "他小說的初稿有很多地方需要重寫。",
+        "en": "The first draft of his novel needed a substantial amount of rewriting."
+    },
+    {
+        "ch": "陪審團經過短時間商討後一致裁決有罪。",
+        "en": "The jury returned a unanimous verdict of guilty after a short deliberation."
+    },
+    {
+        "ch": "那些爆炸一定是在我們離開後發生的，因為我們甚麼也沒聽到。",
+        "en": "Those explosions must have been subsequent to our departure, because we didn't hear anything."
+    },
+    {
+        "ch": "他們長期生活在恐懼中，擔心被發現。",
+        "en": "They lived in perpetual fear of being discovered."
+    },
+    {
+        "ch": "桃子的表皮很嬌嫩，容易碰傷。",
+        "en": "Peaches have delicate skins which are easily bruised."
+    },
+    {
+        "ch": "他們認為法官對恐怖嫌疑分子過於寬容。",
+        "en": "They believe that judges are too lenient with terrorist suspects."
+    },
+    {
+        "ch": "我們的食物夠招待20位客人嗎？",
+        "en": "Have we got adequate food for 20 guests?"
+    },
+    {
+        "ch": "機場的炸彈恐嚇事件之後，全體員工都被告誡要格外警惕。",
+        "en": "Following the bomb scare at the airport, the staff have been warned to be extra vigilant."
+    },
+    {
+        "ch": "幾乎所有關於這一事件的同時期的記載都遺失了。",
+        "en": "Almost all of the contemporary accounts of the event have been lost."
+    },
+    {
+        "ch": "他們花了大量時間使引擎運轉完美。",
+        "en": "They spent an immense amount of time getting the engine into perfect condition."
+    },
+    {
+        "ch": "為寫此書，投入了大量時間細心做前期準備。",
+        "en": "Many hours of meticulous preparation have gone into writing the book."
+    },
+    {
+        "ch": "迄今為止，人們一直認為這種藥物沒有任何副作用。",
+        "en": "So far the drug is thought not to have any adverse effects."
+    },
+    {
+        "ch": "她一時被那些外國路標搞糊塗了。",
+        "en": "She was momentarily confused by the foreign road signs."
+    },
+    {
+        "ch": "該産品的成功不能只歸因於廣告宣傳。",
+        "en": "The product's success cannot be attributable solely to the ads."
+    },
+    {
+        "ch": "如果我們要趕那班火車，就得準時出發。",
+        "en": "We'll have to leave fairly promptly (= on time) if we want to catch that train."
+    },
+    {
+        "ch": "他提了幾個有關的問題。",
+        "en": "He raised several pertinent questions."
+    },
+    {
+        "ch": "免徵這項稅收的商品包括書籍和童裝。",
+        "en": "Goods exempt from this tax include books and children's clothes."
+    },
+    {
+        "ch": "監獄改革條例得以出臺多虧她大力促成。",
+        "en": "She was instrumental in bringing about the prison reform act."
+    },
+    {
+        "ch": "該法律這一部分條款僅適用於有五名以上僱員的公司。",
+        "en": "This part of the law is only applicable to companies employing more than five people."
+    },
+    {
+        "ch": "我們的成功有賴於你的支持。",
+        "en": "Our success is contingent upon your support."
+    },
+    {
+        "ch": "馬不是美洲原產的動物——是西班牙人帶來的。",
+        "en": "The horse is not native to America - it was introduced by the Spanish."
+    },
+    {
+        "ch": "公眾對近來在食物中發現危險毒素一事非常不安。",
+        "en": "There's a lot of public concern about/over dangerous toxins recently found in food."
+    },
+    {
+        "ch": "買汽車要繳很高的國內稅。",
+        "en": "Cars are subject to a high domestic tax."
+    },
+    {
+        "ch": "附上的旅遊行程可能會變動。",
+        "en": "The attached itinerary may be subject to change."
+    },
+    {
+        "ch": "我們應該認識到並非每一樁投訴都是合理的。",
+        "en": "We should be cognizant of the fact that every complaint is not a justified complaint."
+    },
+    {
+        "ch": "如果能和平解決就沒有必要派遣聯合國維和部隊了。",
+        "en": "A peaceful solution would obviate the need to send a UN military force."
+    },
+    {
+        "ch": "被圍困的小鎮沒有足夠的食物度過這個月了。",
+        "en": "The besieged town doesn't have enough food to see the month out."
+    },
+    {
+        "ch": "你們制訂應急方案了嗎？",
+        "en": "Have you made any contingency plans?"
+    },
+    {
+        "ch": "這份報紙發行量有15萬份。",
+        "en": "The paper has a circulation of 150,000."
+    },
+    {
+        "ch": "一些問題的媒體報導往往太淺，這意味著它沒有足夠的解釋。",
+        "en": "The media coverage of some issues is often too shallow, meaning it doesn’t explain enough."
+    },
+    {
+        "ch": "由於設備維護的疏忽，使得設施裡的一台機器故障了。",
+        "en": "A machine in the facility broke down due to a lapse in equipment maintenance."
+    },
+    {
+        "ch": "我的鞋已經顯得舊了。",
+        "en": "My shoes are showing signs of wear."
+    },
+    {
+        "ch": "它在規定的免費行李額範圍內。",
+        "en": "It is within the free baggage allowance."
+    },
+    {
+        "ch": "許多公司定期對僱員進行工作鑒定，通常是每年一次。",
+        "en": "Many companies operate regular job appraisals, often on an annual basis."
+    },
+    {
+        "ch": "隊員必須保證參加整個賽季的比賽",
+        "en": "Players must make a commitment to play for a full season."
+    },
+    {
+        "ch": "一旦我們有了結果，就可以做出合理的治療決定。",
+        "en": "Once we have the results, we can make informed decisions about treatment"
+    },
+    {
+        "ch": "作為一名未來的員工，你覺得我們公司企業文化中哪一個部分讓你印象深刻",
+        "en": "What aspect of our company's corporate culture has made a favorable impression on you as a prospective employee ?"
+    },
+    {
+        "ch": "請不要丟下您的行李無人照管。",
+        "en": "Please do not leave your luggage unattended."
+    },
+    {
+        "ch": "較大號隨時都有貨。",
+        "en": "Larger sizes are readily available."
+    },
+    {
+        "ch": "所有住戶都必須在車輛上貼出停車許可證，否則會有被拖吊的風險。",
+        "en": "All redidents must display a parking permit on their vehicles or risk being towed."
+    },
+    {
+        "ch": "銷售量的穩健增長，可以歸因於我們最新的產品系列的人氣。",
+        "en": "The moderate increase in sales can be attributed to the popularity of our latest product line."
+    },
+    {
+        "ch": "這位電影導演得到全球認可為一位創新電影製作者。",
+        "en": "The movie director has gained recognition around the globe as an innovative filmmaker."
+    },
+    {
+        "ch": "聯合國將決定軍隊從該地區撤軍的條件。",
+        "en": "The UN will dictate the terms of troop withdrawal from the region."
+    },
+    {
+        "ch": "我們無法從這些數字中推斷出太多東西。",
+        "en": "We cannot deduce very much from these figures."
+    },
+    {
+        "ch": "散發出的氣味證明下水道顯然已經被堵塞好幾天了。",
+        "en": "From the smell it was evident that the drains had been blocked for several days."
+    },
+    {
+        "ch": "這些疾病在幼兒中更普遍。",
+        "en": "These diseases are more prevalent among young children."
+    },
+    {
+        "ch": "事故之後制定了嚴格的安全規範。",
+        "en": "Stringent safety regulations were introduced after the accident."
+    },
+    {
+        "ch": "新書陳列在商店前方桌上的一個顯眼位置。",
+        "en": "New books are displayed in a prominent position on tables at the front of the store."
+    },
+    {
+        "ch": "失業率再度下降，儘管降幅沒有上個月般明顯。",
+        "en": "Unemployment has fallen again, although the change is less marked than last month."
+    },
+    {
+        "ch": "飯店房客務請在中午之前退房。",
+        "en": "Hotel guests are requested to vacate their rooms by noon."
+    },
+    {
+        "ch": "現在更多的銀行開始安裝監視錄影機。",
+        "en": "More banks are now installing surveillance cameras."
+    },
+    {
+        "ch": "她驕傲地誇口説這個肥皂劇她從未漏看過一集。",
+        "en": "It is her proud boast that she has never missed a single episode of the show."
+    },
+    {
+        "ch": "讓我吃驚的是，她完全無視他人的意見。",
+        "en": "What amazes me is her complete disregard for anyone else's opinion."
+    },
+    {
+        "ch": "那個繁忙的車輛入口處對行人來說很不安全。",
+        "en": "The busy traffic entrance was a hazard to pedestrians."
+    },
+    {
+        "ch": "我不能再拖著不去看牙醫了。",
+        "en": "I can't put off going to the dentist any longer."
+    },
+    {
+        "ch": "我無法在這麼短的時間內取消我的安排。",
+        "en": "I can't cancel my plans at such short notice."
+    },
+    {
+        "ch": "有些食譜裡，你可以用人造牛油代替牛油。",
+        "en": "You can use margarine in place of butter in some recipes."
+    },
+    {
+        "ch": "這種植物僅葉子可食。",
+        "en": "Only the leaves of the plant are edible."
+    },
+    {
+        "ch": "雖然這本小說在評論界贏得讚譽，但並不暢銷。",
+        "en": "Despite the critical acclaim, the novel did not sell well."
+    },
+    {
+        "ch": "你們的聚會是誰承辦的？",
+        "en": "Who catered your party?"
+    },
+    {
+        "ch": "現在你先整理好你的房間。",
+        "en": "For the time being, you'll clean up your bedroom."
+    },
+    {
+        "ch": "難民們衣衫襤褸，饑腸轆轆。",
+        "en": "The refugees were shabby and hungry."
+    },
+    {
+        "ch": "月臺上有一個出售零食的自動售貨機。",
+        "en": "There is a vending machine on the platform that dispenses snacks."
+    },
+    {
+        "ch": "我們過得非常愉快，決定再多待一個星期。",
+        "en": "We were having such a good time that we decided to prolong our stay by another week."
+    },
+    {
+        "ch": "如果您現在取消的話，恐怕您不能拿回訂金。",
+        "en": "If you cancel now, you forfeit your deposit."
+    },
+    {
+        "ch": "這小屋是用木板建造的。",
+        "en": "The hut was made out of pieces of wood."
+    },
+    {
+        "ch": "她訪問了半途而廢的減肥者，想找出他們放棄的原因。",
+        "en": "She interviewed dieters who had failed to stay the course to find out why they had given up."
+    },
+    {
+        "ch": "我工作的大樓通風非常好／差。",
+        "en": "I work in a very well-/poorly-ventilated building."
+    },
+    {
+        "ch": "我可以挖的像發瘋的囓齒動物。",
+        "en": "I'll dig like a psychotic rodent if I have to."
+    },
+    {
+        "ch": "她穿著一件黑色絲質晚禮服。",
+        "en": "She wore a black silk evening gown."
+    },
+    {
+        "ch": "這將給你一個取得全面經驗的機會。",
+        "en": "It will give you an opportunity to round out your experience."
+    },
+    {
+        "ch": "現在本應是巴厘島最繁忙的旅遊旺季。",
+        "en": "It should be the height of the season in Bali."
+    },
+    {
+        "ch": "儲存的穀物經常受到害蟲的破壞。",
+        "en": "Stores of grain are frequently attacked by pests."
+    },
+    {
+        "ch": "慈善組織的工作獲得媒體的廣泛宣傳。",
+        "en": "The work of the charity has been widely publicized throughout the media."
+    },
+    {
+        "ch": "此雜誌開始依賴於比賽和抽獎活動，特別地為了吸引了年輕讀者。",
+        "en": "The magazine came to depend on competitions and sweepstakes, particularly to lure younger subscribers."
+    },
+    {
+        "ch": "新娘和新郎在教堂外擺姿勢照相。",
+        "en": "The bride and groom posed for pictures outside the church."
+    },
+    {
+        "ch": "有人看到那次襲擊嗎？",
+        "en": "Did anyone witness the attack?"
+    },
+    {
+        "ch": "抵押權人成為土地所有人。",
+        "en": "The mortgagee becomes the proprietor of the land."
+    },
+    {
+        "ch": "她把圍巾鬆鬆地披在肩膀上。",
+        "en": "She draped the scarf loosely around her shoulders."
+    },
+    {
+        "ch": "我們去澳大利亞的機票包括在新加坡停留兩晚的費用。",
+        "en": "Our tickets to Australia include a stopover for two nights in Singapore."
+    },
+    {
+        "ch": "買這套設備首筆花費為2000美元，要是產品賣得好，你每月可以賺得500美元。",
+        "en": "For an initial outlay of $2,000 to buy the equipment, you can earn up to $500 a month if the product sells well."
+    },
+    {
+        "ch": "這個專案計劃顯然需要一個特製的電腦系統。",
+        "en": "The project clearly requires a tailored computer system."
+    },
+    {
+        "ch": "入場觀眾比上個賽季增多了。",
+        "en": "The number of spectators going through the turnstiles is up from last season."
+    },
+    {
+        "ch": "導演將在下週舉行試演，以確定主要角色的人選。",
+        "en": "The director is holding auditions next week for the major parts."
+    },
+    {
+        "ch": "琳達忙于重新裝修她的房子",
+        "en": "Linda was occupied with the work of redecorating her house"
+    },
+    {
+        "ch": "那是一個令人毛骨悚然的故事，講的是一座凶宅還有裡面的幽靈。",
+        "en": "It is a thrilling tale of a haunted house and the ghosts therein."
+    },
+    {
+        "ch": "這些記憶不會隨著時間的流逝而淡漠。",
+        "en": "These memories will not be diminished by time."
+    },
+    {
+        "ch": "這本書說明了戰鬥中發生的事情。",
+        "en": "This book gives an account of what happened during the battle."
+    },
+    {
+        "ch": "他不能想像有一天他會沒有工作。",
+        "en": "He couldn't conceive of a time when he would have no job."
+    },
+    {
+        "ch": "現在船正在駛離海岸，而且風向可能對我們不利。",
+        "en": "The ship is on the offshore tack and the wind may fail us ."
+    },
+    {
+        "ch": "新總統在今晚午夜就職。",
+        "en": "The new president assumes office at midnight tonight."
+    },
+    {
+        "ch": "她在為英國廣播公司的電視臺報導美國大選。",
+        "en": "She's covering the American election for BBC television."
+    },
+    {
+        "ch": "他服了22年兵役。",
+        "en": "He served in the army for 22 years."
+    },
+    {
+        "ch": "不用擔心——我們很快會解決。",
+        "en": "Don't stress over it - we'll soon get it sorted out."
+    },
+    {
+        "ch": "在這次地震中，大多數建築物受到的破壞都很小。",
+        "en": "Most buildings sustained only minimal damage in the earthquake."
+    },
+    {
+        "ch": "政府設立了專門委員會來調查市中心區的暴力問題。",
+        "en": "The government has set up/established a commission to investigate the problem of inner city violence."
+    },
+    {
+        "ch": "機師改變航向避免了一起碰撞事故。",
+        "en": "The pilot avoided a collision by changing course."
+    },
+    {
+        "ch": "表上寫明，所有個人財產都在該保險承保範圍之內。",
+        "en": "It says on the form that the insurance covers all personal effects."
+    },
+    {
+        "ch": "他的語言天賦驚人。",
+        "en": "His facility for languages is astonishing."
+    },
+    {
+        "ch": "我們在條約中增添了一些條款以保護外籍勞工。",
+        "en": "We have inserted certain provisions into the treaty to safeguard foreign workers."
+    },
+    {
+        "ch": "保險公司為針對養老金欺詐指控的索賠安排了準備金。",
+        "en": "The insurance company made a provision against claims over alleged pension fraud."
+    },
+    {
+        "ch": "我們房子的租賃期快滿了。",
+        "en": "The lease on our house is near the end of its term."
+    },
+    {
+        "ch": "下一班公車甚麽時候來？",
+        "en": "What time is the next bus due?"
+    },
+    {
+        "ch": "我們目前沒有計劃。",
+        "en": "We have no immediate plans."
+    },
+    {
+        "ch": "法律規定孩子不上學父母要負責任。",
+        "en": "The law holds parents liable if a child does not attend school."
+    },
+    {
+        "ch": "這個城鎮靠近河邊的地區很容易遭到水淹。",
+        "en": "The areas of town near the river are liable to flooding (= are often flooded)."
+    },
+    {
+        "ch": "這是一座老建築物，但結構依然完好。",
+        "en": "It's an old building but it's still structurally sound."
+    },
+    {
+        "ch": "我只要一小份就好，謝謝。",
+        "en": "Just a modest portion for me, please."
+    },
+    {
+        "ch": "需要採取措施以加快進度。",
+        "en": "Something needs to be done to expedite the process."
+    },
+    {
+        "ch": "我認為你忽略了一個重要的事實。",
+        "en": "I think there is one key fact that you have overlooked."
+    },
+    {
+        "ch": "這裡確實有一股煙味兒。",
+        "en": "There's a distinct smell of cigarettes in here."
+    },
+    {
+        "ch": "這位球員宣佈他即將從國家隊退役。",
+        "en": "The player announced his impending retirement from international football."
+    },
+    {
+        "ch": "喬治突然衝進房間裡，我們的談話戛然而止。",
+        "en": "Our conversation came to an abrupt end when George burst into the room."
+    },
+    {
+        "ch": "他很擅長演講，總能吸引大批的聽眾。",
+        "en": "He's an excellent speaker who always draws a crowd."
+    },
+    {
+        "ch": "帳戶上的存款將會以7%的利率生息。",
+        "en": "Interest will accrue on the account at a rate of seven percent."
+    },
+    {
+        "ch": "這樣的钜額投資必然會有一定的風險。",
+        "en": "Such a large investment inevitably entails some risk."
+    },
+    {
+        "ch": "在市中心限制停車的試驗方案使交通擠塞的問題更加嚴重。",
+        "en": "Attempts to restrict parking in the city centre have further aggravated the problem of traffic congestion."
+    },
+    {
+        "ch": "他推測該公司不久就會陷入財務危機。",
+        "en": "He conjectured that the company would soon be in financial trouble."
+    },
+    {
+        "ch": "這家旅館親切而舒適。",
+        "en": "This hotel is a homely and comfortable establishment."
+    },
+    {
+        "ch": "他對這個企劃案產生了極大的興趣。",
+        "en": "He took an avid interest in the project."
+    },
+    {
+        "ch": "她援引了幾位赫赫有名的學者來支持她的論點。",
+        "en": "She invoked several eminent scholars to back up her argument."
+    },
+    {
+        "ch": "由於手頭上的延期交貨訂單過多，我們無法答應八月之前裝運。",
+        "en": "With so many back orders on hand, we can not promise any shipment before August."
+    },
+    {
+        "ch": "她為幾本法律期刊撰稿。",
+        "en": "She has written for several legal periodicals."
+    },
+    {
+        "ch": "由於支票被銀行拒付，我不得不付一筆罰款。",
+        "en": "I had to pay a penalty fee when my cheque bounced."
+    },
+    {
+        "ch": "估計地方議會將贊同委員會的提議。",
+        "en": "The Council is expected to endorse the committee's recommendations."
+    },
+    {
+        "ch": "政府決意保護其煙草專賣權。",
+        "en": "The government is determined to protect its tobacco monopoly."
+    },
+    {
+        "ch": "拖欠未清餘額的帳戶將不再辦理之後的訂單。",
+        "en": "Further orders will not be processed on those accounts where outstanding balances are overdue for payment."
+    },
+    {
+        "ch": "這個國家一步步滑入經濟衰退的谷底。",
+        "en": "The country is sliding into the depths of (a) recession."
+    },
+    {
+        "ch": "他的刑期被縮減至兩年。",
+        "en": "His prison sentence was remitted to two years."
+    },
+    {
+        "ch": "他在芝加哥做建築工，把每月工資的一半寄回在菲律賓的家。",
+        "en": "He worked as a builder in Chicago and remitted half his monthly wage to his family in the Philippines."
+    },
+    {
+        "ch": "豐盛的午餐使我一下午都懶得動彈。",
+        "en": "A heavy lunch makes me sluggish in the afternoon."
+    },
+    {
+        "ch": "有人在河邊發現了一件衣服。",
+        "en": "An article of clothing was found near the river."
+    },
+    {
+        "ch": "We need a 20percent deposit up-front with the balance due within 60days of the invoice date.",
+        "en": "我們要先收百分之二十的訂金。餘款在發票開出後60日內付清。"
+    },
+    {
+        "ch": "這幅畫將在下週拍賣。",
+        "en": "The painting will be sold at auction next week."
+    },
+    {
+        "ch": "因為天氣寒冷，明天的比賽取消了。",
+        "en": "Tomorrow's match has been called off because of the icy weather."
+    },
+    {
+        "ch": "請您照料一下我的攤位好嗎?",
+        "en": "Would you please watch over my booth?"
+    },
+    {
+        "ch": "俄國否認了攻擊的責任歸屬，並也以驅逐美國外交官員與關閉美國領事館作為回應。",
+        "en": "Russia denies responsibility for the attack, and responded to the U.S. by expelling U.S. diplomats and closing a U.S. consulate."
+    },
+    {
+        "ch": "這本書很有爭議。",
+        "en": "The book was very controversial."
+    },
+    {
+        "ch": "孩子的父母獲取了共同監護權。",
+        "en": "The parents were given joint custody."
+    },
+    {
+        "ch": "五人因製售假鈔被起訴。",
+        "en": "Five people were indicted for making and selling counterfeit currency."
+    },
+    {
+        "ch": "人們對一些政治犯在關押期間死去表示關注。",
+        "en": "Concern has been expressed about the death in detention of a number of political prisoners."
+    },
+    {
+        "ch": "即使是輕微的違法行為也將受到嚴厲的懲罰。",
+        "en": "Even minor infringements of the law will be severely punished."
+    },
+    {
+        "ch": "公司一直在推卸責任，但同意這一調解方案以避免漫長的訴訟所帶來的花費。",
+        "en": "The company has consistently denied responsibility, but it agreed to the settlement to avoid the expense of lengthy litigation."
+    },
+    {
+        "ch": "《市政條例》第126條禁止在該地區停放車輛。",
+        "en": "City Ordinance 126 forbids the parking of cars in this area."
+    }
+]
